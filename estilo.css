@@ -1,0 +1,19 @@
+body,html{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.conteudo{
+    display:flex;
+    flex-direction: row;
+    background-color: silver;
+}
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 5px;
+}
